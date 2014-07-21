@@ -49,7 +49,7 @@
     </item>
     <item id="260" file="command.cpp" function="_handle_addacct_command">
       <original>Account name contains some invalid symbol!</original>
-      <translate>¡El nombre de cuenta contiene algun carácter inválido!</translate>
+      <translate>¡El nombre de cuenta contiene algún carácter inválido!</translate>
     </item>
     <item id="261" file="command.cpp" function="_handle_addacct_command">
       <original>Maximum password length allowed is {}</original>
